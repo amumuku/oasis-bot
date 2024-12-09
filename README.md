@@ -1,4 +1,6 @@
 # OASIS AI BETA CLI VERSION
+链接注册:https://r.oasis.ai/f9f96bf7ddb6b079
+
 
 ![banner](image-1.png)
 AI inference powered by distributed compute
